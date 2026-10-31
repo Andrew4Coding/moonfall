@@ -56,3 +56,6 @@ video/node_modules/
 video/out/
 video/public/audio/*.wav
 video/.env
+
+# Video projects (local only)
+video/
